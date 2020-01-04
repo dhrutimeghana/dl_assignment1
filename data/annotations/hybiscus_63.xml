@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hybiscus_63.jpeg</filename>
+	<path>/home/ubuntu/dl_assignment1/data/images/hybiscus_63.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>244</width>
+		<height>207</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hybiscus</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>243</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>frangipani_21.jpeg</filename>
+	<path>/home/ubuntu/dl_assignment1/data/images/frangipani_21.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>227</width>
+		<height>222</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>frangipani</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>29</ymin>
+			<xmax>199</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>
